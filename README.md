@@ -1,2 +1,2 @@
-# Pia-Project-Frontend
-Pia Project Frontend Repo (İş-Sizsiniz)
+# Pia-Project
+Pia Project Repo (İş-Sizsiniz)
